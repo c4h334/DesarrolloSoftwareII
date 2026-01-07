@@ -1,0 +1,7 @@
+Refactorización: transformar lo que se tiene a otra cosa para mayor eficiencia. ✅
+
+Deuda técnica: 
+
+Code smell: 
+
+Clean code: que el código esté optimizado, limpio, entendible, comentado... ✅
