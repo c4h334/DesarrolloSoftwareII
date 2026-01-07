@@ -13,5 +13,4 @@ public class ElectronicProduct extends Product implements Returnable {
     public boolean canBeReturned(int daysSincePurchase) {
         return daysSincePurchase <= 15;
     }
-
 }

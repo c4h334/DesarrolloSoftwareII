@@ -45,7 +45,6 @@ public abstract class Product {
 
     @Override
     public String toString() {
-        // TODO Auto-generated method stub
         return "Product{name='" + name + "', price=" + price + "}";
     }
 }
