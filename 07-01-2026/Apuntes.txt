@@ -1,7 +1,9 @@
-Refactorización: transformar lo que se tiene a otra cosa para mayor eficiencia. ✅
+DEFINICIONES - BUENAS PRÁCTICAS DE PROGRAMACIÓN
+
+Refactorización: mejora de la estructura interna del código sin alterar su comportamiento pa aumentar legibilidad mantenibilidad y clarity
 
 Deuda técnica: 
 
-Code smell: 
+Code smell: código de baja calidad, dificil de entender, modificar o probar, ej: código duplicado, métodos largos, clase Dios
 
-Clean code: que el código esté optimizado, limpio, entendible, comentado... ✅
+Clean code: que el código esté optimizado, limpio, entendible, comentado... que priorice la claridad y la mantenibilidad
