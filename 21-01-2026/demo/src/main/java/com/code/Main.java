@@ -8,5 +8,6 @@ public class Main {
         Gson gson = new Gson();
         Person person = new Person("Anderson", 19, true);
         String info = gson.toJson(person);
+        System.out.println(info);
     }
 }
