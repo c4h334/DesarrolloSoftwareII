@@ -2,12 +2,12 @@ package com.example;
 
 public class Person {
     private String name;
-    private int age;
+    private int id;
     private boolean isStudent;
 
-    public Person(String name, int age, boolean isStudent) {
+    public Person(String name, int id, boolean isStudent) {
         this.name = name;
-        this.age = age;
+        this.id = id;
         this.isStudent = isStudent;
     }
 
@@ -19,12 +19,12 @@ public class Person {
         this.name = name;
     }
 
-    public int getAge() {
-        return age;
+    public int getId() {
+        return id;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public boolean isIsStudent() {
@@ -37,7 +37,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person [name=" + name + ", age=" + age + ", isStudent=" + isStudent + "]";
+        return "Person [name=" + name + ", id=" + id + ", isStudent=" + isStudent + "]";
     }
 
 }
