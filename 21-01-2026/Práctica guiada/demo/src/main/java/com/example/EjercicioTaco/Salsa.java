@@ -1,4 +1,4 @@
-package com.example.EjercicioFinal;
+package com.example.EjercicioTaco;
 
 public class Salsa {
     private String name;

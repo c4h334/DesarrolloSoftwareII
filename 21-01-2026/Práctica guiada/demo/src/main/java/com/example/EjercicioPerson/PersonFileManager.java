@@ -1,4 +1,4 @@
-package com.example;
+package com.example.EjercicioPerson;
 
 import java.io.FileReader;
 import java.io.FileWriter;

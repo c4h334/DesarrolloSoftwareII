@@ -1,4 +1,4 @@
-package com.example;
+package com.example.EjercicioPerson;
 
 public class Person {
     private String name;
