@@ -39,9 +39,16 @@ public class Topping {
 
     @Override
     public String toString() {
-        return "Topping [name=" + name + ", quantity=" + quantity + ", ingredients=" + printIngredients(ingredients) + "]";
+        return "Topping [name=" + name + ", quantity=" + quantity + ", ingredients=" + printIngredients(ingredients)
+                + "]";
     }
 
-    
+    public List<String> getIngredients() {
+        return ingredients;
+    }
+
+    public void setIngredients(List<String> ingredients) {
+        this.ingredients = ingredients;
+    }
 
 }
