@@ -1,0 +1,14 @@
+footer a {
+  text-transform: lowercase;
+  background-color: #c2ad09;
+}
+a {
+  text-transform: uppercase;
+}
+a.test {
+  text-transform: capitalize;
+  color: rgb(200, 30, 200);
+}
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
